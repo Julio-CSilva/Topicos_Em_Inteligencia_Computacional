@@ -9,13 +9,13 @@ Table of contents
 <!--ts-->
    * [About](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/blob/main/README.md#about)
    * [Article summary](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/blob/main/README.md#article-summary)
-   * [Lessons](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#lessons)
-      * [Week 01](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#week-01-course-outline)
-      * [Week 02](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#week-02-cli-fundamentals)
-      * [Week 03](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#week-03-clean-code-principles-for-data-science-and-machine-learning)
-      * [Week 04](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#week-04-production-ready-code)
+   * [Lessons](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/blob/main/README.md#lessons)
+      * [Week 01]()
+      * [Week 02]()
+      * [Week 03]()
+      * [Week 04]()
    * [Technologies](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/blob/main/README.md#technologies)
-   * [Author](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#author)
+   * [Author]()
       * [Certifications](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/blob/main/README.md#-certifications)
 <!--te-->
 
