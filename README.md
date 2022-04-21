@@ -16,7 +16,7 @@ Table of contents
       * [Week 04](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#week-04-production-ready-code)
    * [Technologies](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#technologies)
    * [Author](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#author)
-      * [Certifications](https://github.com/Julio-CSilva/T-picos_Em_Intelig-ncia_Computacional/edit/main/README.md#certifications)
+      * [Certifications](certifications)
 <!--te-->
 
 
@@ -48,4 +48,4 @@ Table of contents
 # Author
 
 
-## Certifications
+## <a name=“certifications”><a/> Certifications
