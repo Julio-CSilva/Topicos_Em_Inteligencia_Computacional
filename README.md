@@ -46,10 +46,26 @@ Table of contents
 ## >> Week 04 (Production Ready Code)
 
 
-# Technologies
+# 🛠 Technologies
 
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Git](https://git-scm.com)
 
 # Author
 
+<a href="https://github.com/Julio-CSilva">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/57691025?s=400&u=15893c15d3d42c7737e91cc4f11dcbd7751b7565&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Julio Silva</b></sub></a> <a href="https://github.com/Julio-CSilva" title="Foguete não tem ré">🚀</a>
+
+Clique para saber mais!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Julio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-csilva/)](https://www.linkedin.com/in/julio-csilva/) 
+[![Gmail Badge](https://img.shields.io/badge/-juliocesarfilho0112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocesarfilho0112@gmail.com)](mailto:juliocesarfilho0112@gmail.com)
 
 ## <a name=“certifications”><a/> Certifications
+
+<h4 align="left">
+    <a href="https://app.dataquest.io/verify_cert/G1IQBT1EU4CSCCIT1XXA/">🔗 Git and Version Control</a>
+</h4>
