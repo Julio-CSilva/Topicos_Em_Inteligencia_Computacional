@@ -34,16 +34,16 @@ Table of contents
 # Lessons
 
 
-## Week 01 (Course Outline)
+## >> Week 01 (Course Outline)
 
 
-## Week 02 (CLI fundamentals)
+## >> Week 02 (CLI fundamentals)
 
 
-## Week 03 (Clean Code Principles for Data Science and Machine Learning)
+## >> Week 03 (Clean Code Principles for Data Science and Machine Learning)
 
 
-## Week 04 (Production Ready Code)
+## >> Week 04 (Production Ready Code)
 
 
 # Technologies
