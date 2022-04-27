@@ -69,3 +69,7 @@ Clique para saber mais!
 <h4 align="left">
     <a href="https://app.dataquest.io/verify_cert/G1IQBT1EU4CSCCIT1XXA/">🔗 Git and Version Control</a>
 </h4>
+  
+<h4 align="left">
+    <a href="https://app.dataquest.io/verify_cert/OCXDZBCAUCDM71I6TLXV/">🔗 Elements of the Command Line</a>
+</h4>
