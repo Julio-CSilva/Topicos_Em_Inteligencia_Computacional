@@ -81,3 +81,7 @@ Clique para saber mais!
 <h4 align="left">
     <a href="https://app.dataquest.io/verify_cert/D7KTGUGAGD85VOWY6DGF/">🔗 Functions: Advanced</a>
 </h4>
+
+<h4 align="left">
+    <a href="https://app.dataquest.io/verify_cert/QPYF14XMH7MY4US4YBAL/">🔗 Data Visualization Fundamentals</a>
+</h4>
