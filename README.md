@@ -38,10 +38,10 @@ Table of contents
 
 
 ## >> Week 02 (CLI fundamentals)
-
+  * [Nota Técnica](https://medium.com/@julio.silva.706/data-science-por-onde-começar-95e3d08872a2)
 
 ## >> Week 03 (Clean Code Principles for Data Science and Machine Learning)
-
+  * [PCQA](https://github.com/Julio-CSilva/Using_PCQA_Python)
 
 ## >> Week 04 (Production Ready Code)
 
