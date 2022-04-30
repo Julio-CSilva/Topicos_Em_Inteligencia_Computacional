@@ -77,3 +77,7 @@ Clique para saber mais!
 <h4 align="left">
     <a href="https://app.dataquest.io/verify_cert/XHFD1UZRO1CPLQQT6R27/">🔗 Text Processing in the Command Line</a>
 </h4>
+  
+<h4 align="left">
+    <a href="https://app.dataquest.io/verify_cert/D7KTGUGAGD85VOWY6DGF/">🔗 Functions: Advanced</a>
+</h4>
