@@ -89,3 +89,8 @@ Clique para saber mais!
 <h4 align="left">
     <a href="https://app.dataquest.io/verify_cert/PVX0MB8D6OD3VD58W31V/">🔗 Storytelling Data Visualization and Information Design</a>
 </h4>
+
+<h4 align="left">
+    <a href="https://app.dataquest.io/verify_cert/GM42HGBEE8KVT3NNLQH5/">🔗 Building a Data Pipeline</a>
+</h4>
+  
