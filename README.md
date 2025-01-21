@@ -48,7 +48,7 @@ Table of contents
   * [MLops v2](https://github.com/Julio-CSilva/Topicos_Em_Inteligencia_Computacional/blob/main/MLOPs.v2)
 
 ## >> Week 05 (Final Project)
-  * [Data Visualization](https://github.com/Julio-CSilva/Topicos_Em_Inteligencia_Computacional/blob/main/Forest_fires)
+  * [Data Visualization](https://github.com/Julio-CSilva/Topicos_Em_Inteligencia_Computacional/blob/main/Forest-fires)
 
 # 🛠 Technologies
 
