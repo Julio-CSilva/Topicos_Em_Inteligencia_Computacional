@@ -38,13 +38,17 @@ Table of contents
 
 
 ## >> Week 02 (CLI fundamentals)
-  * [Nota Técnica](https://medium.com/@julio.silva.706/data-science-por-onde-começar-95e3d08872a2)
+  * [Data Science: Por onde Começar?](https://medium.com/@julio.silva.706/data-science-por-onde-começar-95e3d08872a2)
 
 ## >> Week 03 (Clean Code Principles for Data Science and Machine Learning)
-  * [PCQA](https://github.com/Julio-CSilva/Using_PCQA_Python)
+  * [PCQA](https://github.com/Julio-CSilva/Topicos_Em_Inteligencia_Computacional/blob/main/PCQA)
 
 ## >> Week 04 (Production Ready Code)
+  * [MLops v1](https://github.com/Julio-CSilva/Topicos_Em_Inteligencia_Computacional/blob/main/MLOPs.v1)
+  * [MLops v2](https://github.com/Julio-CSilva/Topicos_Em_Inteligencia_Computacional/blob/main/MLOPs.v2)
 
+## >> Week 05 (Final Project)
+  * [Data Visualization](https://github.com/Julio-CSilva/Topicos_Em_Inteligencia_Computacional/blob/main/Forest_fires)
 
 # 🛠 Technologies
 
